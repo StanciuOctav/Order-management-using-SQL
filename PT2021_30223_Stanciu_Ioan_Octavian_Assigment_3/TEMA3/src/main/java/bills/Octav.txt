@@ -1,0 +1,4 @@
+Client: Octav ; CNP: 1212121212121
+Want to buy 20 Deodorant1 for the price of 119.799995
+Want to buy 1 Deodorant1 for the price of 5.99
+TOTAL: 125.78999
